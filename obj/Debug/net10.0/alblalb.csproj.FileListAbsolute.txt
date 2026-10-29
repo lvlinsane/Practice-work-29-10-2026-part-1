@@ -1,0 +1,14 @@
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\bin\Debug\net10.0\alblalb.exe
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\bin\Debug\net10.0\alblalb.deps.json
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\bin\Debug\net10.0\alblalb.runtimeconfig.json
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\bin\Debug\net10.0\alblalb.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\bin\Debug\net10.0\alblalb.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.AssemblyInfoInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.AssemblyInfo.cs
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.csproj.CoreCompileInputs.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\refint\alblalb.dll
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.pdb
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\alblalb.genruntimeconfig.cache
+C:\Users\vlone\OneDrive\Документы\GitHub\alblalb\obj\Debug\net10.0\ref\alblalb.dll
